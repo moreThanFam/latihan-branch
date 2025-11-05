@@ -1,3 +1,3 @@
 repository main di github
 
-yak betul
+yak mantap
