@@ -1,4 +1,3 @@
-# latihan-branchfdhdf
-bsfgdrshrsregeg
-mantappppppppp
-development
+repository main di github
+
+yak mantap
